@@ -1,0 +1,12 @@
+[
+  {
+    "movimento": "A",
+    "Nome": "Spesa Scuola",
+    "Importo": 20
+  },
+  {
+    "movimento": "D",
+    "Nome": "Soldi",
+    "Importo": 20
+  }
+]

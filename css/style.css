@@ -1,0 +1,26 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+  font-size: 19px;
+  font-weight: 200;
+  color: white;
+  background-color: black;
+}
+#navigation{
+margin-top: 2px;
+padding: 1%;
+}
+#navigation a{
+  text-decoration: none;
+  color:white;
+}
+#navigation span:hover{
+  background-color: #262626;
+  cursor: pointer;
+}
+#navigation span{
+  height: 100%;
+  padding: 2%;
+}
